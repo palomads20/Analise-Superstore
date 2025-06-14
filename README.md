@@ -2,9 +2,9 @@
 Projetos para treinar analise dados com python
 
 ## Bibliotecas usadas
-Seaborn
-Pandas
-Matplotlib.pyplot
+- Seaborn
+- Pandas
+- Matplotlib.pyplot
 
 ## O que foi feito
 Verificação de valores ausentes
