@@ -7,10 +7,10 @@ Projetos para treinar analise dados com python
 - Matplotlib.pyplot
 
 ## O que foi feito
-Verificação de valores ausentes
-Conversão de colunas
-Cálculo de vendas por categoria
-Cálculo de vendas por sub-categoria
-Gráfico de barras de vendas por sub-categoria
-Gráfico de linha de vendas mensais
+- Verificação de valores ausentes
+- Conversão de colunas
+- Cálculo de vendas por categoria
+- Cálculo de vendas por sub-categoria
+- Gráfico de barras de vendas por sub-categoria
+- Gráfico de linha de vendas mensais
 
